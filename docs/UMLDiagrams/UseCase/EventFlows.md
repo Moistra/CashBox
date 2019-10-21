@@ -1,7 +1,7 @@
 # Поток событий
 ---
 
-![UseCase](docs/Diagrams/UseCaseDiagram.png)
+![UseCase](https://github.com/Moistra/CashBox/blob/master/docs/Diagrams/UseCaseDiagram.jpg)
 
 # Содержание
 1 [Актёры](#1) <br>
