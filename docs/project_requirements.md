@@ -54,11 +54,11 @@
 
 - Стартовое окно
 
-  ![Стартовая страница](mockups/MainWindow.png)  
+  ![Стартовая страница](Mockups/MainWindow.png)  
 
 - Окно добавления операции
 
-  ![Страница добавления операции](mockups/SelectWindow.png)  
+  ![Страница добавления операции](Mockups/SelectWindow.png)  
 
 <a name="user_specifications"/>
 
