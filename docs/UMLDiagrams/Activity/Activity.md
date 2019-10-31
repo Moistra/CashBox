@@ -11,7 +11,7 @@
 <a name="add"/>
 
 # 1 Добавление денежной операции  
-![Добавление денежной операции](docs/Diagrams/ActivityDiagram/ActivityDiagram_AddOperation.jpg)
+![Добавление денежной операции](CashBox/docs/Diagrams/ActivityDiagram/ActivityDiagram_AddOperation.jpg)
 
 <a name="edit"/>
 
@@ -21,12 +21,12 @@
 <a name="delete"/>
 
 # 3 Удаление денежной операции  
-![Удаление денежной операции](docs/Diagrams/ActivityDiagram/ActivityDiagram_DeleteOperation.jpg)
+![Удаление денежной операции](ActivityDiagram/ActivityDiagram_DeleteOperation.jpg)
 
 <a name="view_diagram"/>
 
 # 4 Просмотр диаграмм  
-![Просмотр диаграмм](docs/Diagrams/ActivityDiagram/ActivityDiagram_ViewDiagram.jpg)
+![Просмотр диаграмм](ActivityDiagram_ViewDiagram.jpg)
 
 <a name="convert"/>
 
