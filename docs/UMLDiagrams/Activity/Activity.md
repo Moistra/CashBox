@@ -11,24 +11,24 @@
 <a name="add"/>
 
 # 1 Добавление денежной операции  
-![Добавление денежной операции](CashBox/docs/Diagrams/ActivityDiagram/ActivityDiagram_AddOperation.jpg)
+![Добавление денежной операции](https://github.com/Moistra/CashBox/blob/master/docs/Diagrams/ActivityDiagram/ActivityDiagram_AddOperation.jpg)
 
 <a name="edit"/>
 
 # 2 Изменение денежной операции  
-![Изменение денежной операции](Diagrams/ActivityDiagram/ActivityDiagram_EditOperation.jpg)
+![Изменение денежной операции](https://github.com/Moistra/CashBox/blob/master/docs/Diagrams/ActivityDiagram/ActivityDiagram_EditOperation.jpg)
 
 <a name="delete"/>
 
 # 3 Удаление денежной операции  
-![Удаление денежной операции](ActivityDiagram/ActivityDiagram_DeleteOperation.jpg)
+![Удаление денежной операции](https://github.com/Moistra/CashBox/blob/master/docs/Diagrams/ActivityDiagram/ActivityDiagram_DeleteOperation.jpg)
 
 <a name="view_diagram"/>
 
 # 4 Просмотр диаграмм  
-![Просмотр диаграмм](ActivityDiagram_ViewDiagram.jpg)
+![Просмотр диаграмм](https://github.com/Moistra/CashBox/blob/master/docs/Diagrams/ActivityDiagram/ActivityDiagram_ViewDiagram.jpg)
 
 <a name="convert"/>
 
 # 5 Перевод валют из одной единицы в другую
-![Перевод валют из одной единицы в другую](docs/Diagrams/ActivityDiagram/ActivityDiagram_СurrencyOfOperation.jpg)
+![Перевод валют из одной единицы в другую](https://github.com/Moistra/CashBox/blob/master/docs/Diagrams/ActivityDiagram/ActivityDiagram_%D0%A1urrencyOfOperation.jpg)
