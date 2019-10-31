@@ -8,4 +8,4 @@
 4 [Диаграммы состояний](State/State.md)  
 5 [Диаграмма классов](ClassDiagram/Class.md)  
 6 [Диаграмма компонентов](Component/Component.md)    
-7 [Диаграмма развертывания](Deployment/Deployment.md)
+
