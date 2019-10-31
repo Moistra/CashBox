@@ -16,7 +16,7 @@
 <a name="edit"/>
 
 # 2 Изменение денежной операции  
-![Изменение денежной операции](docs/Diagrams/ActivityDiagram/ActivityDiagram_EditOperation.jpg)
+![Изменение денежной операции](Diagrams/ActivityDiagram/ActivityDiagram_EditOperation.jpg)
 
 <a name="delete"/>
 
