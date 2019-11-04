@@ -11,5 +11,5 @@
 
 <a name="delete"/>
 
-# 1 Добавление/изменение денежной операции  
+# 2 Удаление денежной операции  
 ![Диаграмма удаления денежной операции](https://github.com/Moistra/CashBox/blob/master/docs/Diagrams/SeqDiagram2.jpg)
