@@ -6,3 +6,4 @@ CashBox - это десктопное приложение, предназнач
 
 1. [Требования к проекту](docs/project_requirements.md)  
 2. [Диаграммы](docs/UMLDiagrams/README.md)  
+3. [Тесты](Tests/Testing_plan.md)
